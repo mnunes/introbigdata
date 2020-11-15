@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "Material"
 subtitle = ""
 
 [content]
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,22 @@ subtitle = ""
  css_class = ""
 +++
 
+O material do curso, como slides, conjuntos de dados e exemplos de códigos se encontram no [github](https://github.com/mnunes/introbigdata_material). [Clique aqui]([github](https://github.com/mnunes/introbigdata_material)) para aprender a baixar todo o conteúdo da disciplina para o seu computador.
+
+A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido os vídeos antes dos encontros síncronos.
+
+* Semana 01: 
+* Semana 02: 
+* Semana 03: 
+* Semana 04: 
+* Semana 05: 
+* Semana 06: 
+* Semana 07: 
+* Semana 08: 
+* Semana 09: 
+* Semana 10: 
+* Semana 11: 
+* Semana 12: 
+* Semana 13: 
+* Semana 14: 
+* Semana 15: 
