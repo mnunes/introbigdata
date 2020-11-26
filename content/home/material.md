@@ -75,9 +75,9 @@ subtitle = ""
  css_class = ""
 +++
 
-O material do curso, como slides, conjuntos de dados e exemplos de códigos se encontram no [github](https://github.com/mnunes/introbigdata_material). [Clique aqui]([github](https://github.com/mnunes/introbigdata_material)) para aprender a baixar todo o conteúdo da disciplina para o seu computador.
+O material do curso, como slides, conjuntos de dados e exemplos de códigos se encontram no [github](https://github.com/mnunes/introbigdata_material). [Clique aqui](https://github.com/mnunes/introbigdata_material) para aprender a baixar todo o conteúdo da disciplina para o seu computador.
 
-A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido os vídeos antes dos encontros síncronos.
+A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
 * Semana 01: 
 * Semana 02: 
