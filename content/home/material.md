@@ -87,9 +87,9 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 03 - K-Means
 * Semana 04 - Clusterização Hierárquica
 * Semana 05 - Projeto I
-* Semana 06 - Tidymodels
-* Semana 07 - Validação Cruzada
-* Semana 08 - K Vizinhos Mais Próximos
+* Semana 06 - Validação Cruzada
+* Semana 07 - K Vizinhos Mais Próximos
+* Semana 08 - Máquinas de Vetor Suporte
 * Semana 09 - Árvores de Classificação e Regressão
 * Semana 10 - Random Forest
 * Semana 11 - Projeto II

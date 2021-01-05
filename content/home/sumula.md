@@ -80,16 +80,16 @@ Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Em resumo
 As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras, exceto a data de 19 de abril, que é uma segunda-feira. Perceba também que essas são as datas dos nossos encontros síncronos.
 
 |Semana | Data  | Assunto
-|------:|-------|--------|
+|------:|-------|--------
 |00     | 13/01 | Introdução 
 |01     | 20/01 | Obtenção de Dados
 |02     | 27/01 | Análise de Componentes Principais
 |03     | 03/02 | K-Means
 |04     | 10/02 | Clusterização Hierárquica
 |05     | 17/02 | Projeto I
-|06     | 24/02 | Tidymodels
-|07     | 03/03 | Validação Cruzada
-|08     | 10/03 | K Vizinhos Mais Próximos
+|06     | 24/02 | Validação Cruzada
+|07     | 03/03 | K Vizinhos Mais Próximos
+|08     | 10/03 | Máquinas de Vetor Suporte
 |09     | 17/03 | Árvores de Classificação e Regressão
 |10     | 24/03 | Random Forest
 |11     | 31/03 | Projeto II
