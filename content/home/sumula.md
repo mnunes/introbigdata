@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Súmula"
 subtitle = ""
@@ -75,39 +75,28 @@ subtitle = ""
  css_class = ""
 +++
 
-Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Devido a limitações de hardware, não trabalharemos com big data em si, mas os assuntos vistos aqui podem ser escalados para conjuntos de dados de qualquer tamanho.
+Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Em resumo, veremos assuntos relacionados a aprendizagem de máquina. Devido a limitações de hardware, não trabalharemos com big data em si, mas os assuntos vistos aqui podem ser escalados para conjuntos de dados de qualquer tamanho.
 
-### Introdução
+As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras, exceto a data de 19 de abril, que é uma segunda-feira. Perceba também que essas são as datas dos nossos encontros síncronos.
 
-1.1. O que é Big Data
+|Semana | Data  | Assunto
+|------:|-------|--------|
+|00     | 13/01 | Introdução 
+|01     | 20/01 | Obtenção de Dados
+|02     | 27/01 | Análise de Componentes Principais
+|03     | 03/02 | K-Means
+|04     | 10/02 | Clusterização Hierárquica
+|05     | 17/02 | Projeto I
+|06     | 24/02 | Tidymodels
+|07     | 03/03 | Validação Cruzada
+|08     | 10/03 | K Vizinhos Mais Próximos
+|09     | 17/03 | Árvores de Classificação e Regressão
+|10     | 24/03 | Random Forest
+|11     | 31/03 | Projeto II
+|12     | 07/04 | Projeto Final - Dúvidas
+|13     | 14/04 | Projeto Final - Dúvidas
+|14     | 19/04 | Projeto Final - Apresentação
+|15     | 26/04 | Quarta prova
 
-### Clusterização
 
-2.1. Preparação dos Dados
-
-2.2. Análise de Componentes Principais
-
-2.3. K-Means
-
-2.4. Clusterização Hierárquica
-
-### Classificação
-
-3.1. Aprendizagem de Máquina
-
-3.2. K-Vizinhos Mais Próximos
-
-3.3. Máquinas de Vetor Suporte (SVM)
-
-3.4. Árvores de Classificação e Regressão (CART)
-
-3.5. Floresta Aleatória (Random Forest)
-
-### Regressão
-
-4.1. Máquinas de Vetor Suporte (SVM)
-
-4.2. Floresta Aleatória (Random Forest)
-
-4.3. Modelos Ensemble
-
+A organização dos conteúdos está ligeiramente diferente daquela registrada no SIGAA, mas a disciplina está passando por uma reformulação nesse semestre e as mudanças atuais, caso bem sucedidas, serão implementadas à versão oficial.

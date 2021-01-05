@@ -31,7 +31,12 @@
 [[main]]
   name = "Projeto"
   url = "#projeto"
-  weight = 90
+  weight = 60
+
+[[main]]
+  name = "Bibliografia"
+  url = "#bibliografia"
+  weight = 80
 
 [[main]]
   name = "Instrutor"

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Projeto"
+title = "Projeto Final"
 subtitle = ""
 
 [content]
@@ -75,13 +75,13 @@ subtitle = ""
  css_class = ""
 +++
 
-Esta é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2020.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório e ser apresentado em sala de aula a partir de XX/YY/2021.
+Esta é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2020.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório deito em R Markdown e ser apresentado em sala de aula a partir de 19/04/2021.
 
 ### Instruções
 
 * Este projeto será avaliado de duas maneiras: em sala, numa apresentação de slides, e por escrito, através de um relatório
 
-* A apresentação de slides deverá durar de 15 a 20 minutos
+* A apresentação de slides deverá durar de 12 a 15 minutos
 
 * Não há limite mínimo ou máximo para o número de páginas do relatório escrito
 
@@ -89,10 +89,9 @@ Esta é a última avaliação da turma de Introdução à Modelagem de Big Data 
 
 * Os arquivos com a apresentação de slides, relatório e banco de dados devem ser enviados para o professor logo após a apresentação oral
 
-* A data exata da entrega do projeto é 25/11/2019
+* A data da entrega e apresentação do projeto é 19/04/2021, durante o horário da aula
 
-
-Este projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
+O projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
 
 * Dados biológicos
 
@@ -118,7 +117,7 @@ Cada grupo deverá obter um banco de dados em algum destes assuntos ou outros, d
   
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
-* Slides da aula Como Obter Dados Para Análise _(em breve)_
+* Sites de governos ([dados.gov.br](https://dados.gov.br/), [data.gov](https://catalog.data.gov/dataset))
 
 
 
@@ -147,7 +146,7 @@ Alguns assuntos que podem ser tratados no projeto são
 
 * Paralelização de código utilizando GPU
 
-* Reprodução de algoritmos vistos em aula em outras linguagens, como python ou julia, e como o desempenho deles se compara ao R
+* Reprodução de algoritmos vistos em aula em outras linguagens, como Python ou Julia, e como o desempenho deles se compara ao R
 
 Portanto, os alunos não precisam se limitar aos conteúdos vistos em aula.
 
@@ -155,22 +154,12 @@ Portanto, os alunos não precisam se limitar aos conteúdos vistos em aula.
 
 ### Datas Importantes
 
-* XX/XX/2021: sorteio da ordem de apresentação oral dos trabalhos e entrega do pré-projeto, onde vão constar
+* 24/02/2021: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
   * nomes dos membros dos grupos
   * descrição do conjunto de dados a ser analisado
   * as perguntas a serem respondidas no projeto
 
-* O início das apresentações em sala está marcado para XX/XX/2021
-
-
-
-
-
-
-
-
-
-
+* As apresentações ocorrerão em 19/04/2021
 
 
 

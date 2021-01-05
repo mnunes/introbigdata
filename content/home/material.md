@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Material"
 subtitle = ""
@@ -75,22 +75,25 @@ subtitle = ""
  css_class = ""
 +++
 
-O material do curso, como slides, conjuntos de dados e exemplos de códigos se encontram no [github](https://github.com/mnunes/introbigdata_material). [Clique aqui](https://github.com/mnunes/introbigdata_material) para aprender a baixar todo o conteúdo da disciplina para o seu computador.
+O material do curso, como slides, conjuntos de dados e exemplos de códigos, se encontram no [github](https://github.com/mnunes/introbigdata_material). Lá também está a lista de pacotes do `R` a serem instalados em sua máquina para que o curso possa ser acompanhado. [Clique aqui](https://github.com/mnunes/introbigdata_material) para ver um tutorial sobre como automatizar o download de todo o conteúdo da disciplina para o seu computador.
 
 A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
-* Semana 01: 
-* Semana 02: 
-* Semana 03: 
-* Semana 04: 
-* Semana 05: 
-* Semana 06: 
-* Semana 07: 
-* Semana 08: 
-* Semana 09: 
-* Semana 10: 
-* Semana 11: 
-* Semana 12: 
-* Semana 13: 
-* Semana 14: 
-* Semana 15: 
+* Semana 00 - Introdução
+  * Vídeo 01 - O que é Big Data?
+  * Vídeo 02 - Exemplos de Aplicações com Big Data
+* Semana 01 - Obtenção de Dados
+* Semana 02 - Análise de Componentes Principais
+* Semana 03 - K-Means
+* Semana 04 - Clusterização Hierárquica
+* Semana 05 - Projeto I
+* Semana 06 - Tidymodels
+* Semana 07 - Validação Cruzada
+* Semana 08 - K Vizinhos Mais Próximos
+* Semana 09 - Árvores de Classificação e Regressão
+* Semana 10 - Random Forest
+* Semana 11 - Projeto II
+* Semana 12 - Projeto Final (Dúvidas)
+* Semana 13 - Projeto Final (Dúvidas)
+* Semana 14 - Projeto Final (Apresentação)
+* Semana 15 - Quarta prova
