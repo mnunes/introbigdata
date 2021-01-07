@@ -80,8 +80,8 @@ O material do curso, como slides, conjuntos de dados e exemplos de códigos, se 
 A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
 * Semana 00 - Introdução
-  * Vídeo 01 - O que é Big Data?
-  * Vídeo 02 - Exemplos de Aplicações com Big Data
+  * O que é Big Data? [vídeo](https://youtu.be/_WPwzO5nt0c) [slides](https://github.com/mnunes/introbigdata_material/blob/main/aulas/00_Introducao/O_Que_E_Big_Data.pdf)
+  * Exemplos de Aplicações com Big Data [vídeo](https://youtu.be/4DG8Y_nxd5U) [slides](https://github.com/mnunes/introbigdata_material/blob/main/aulas/00_Introducao/Exemplos.pdf)
 * Semana 01 - Obtenção de Dados
 * Semana 02 - Análise de Componentes Principais
 * Semana 03 - K-Means
