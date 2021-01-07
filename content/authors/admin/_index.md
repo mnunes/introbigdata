@@ -52,6 +52,10 @@ Bem-vindo ao site da disciplina EST0133 - Introdução à Modelagem de Big Data,
 
 **Pré-requisitos:** Métodos Estatísticos (EST0114) e Introdução ao R (EST0091)
 
+* Métodos Estatísticos é uma disciplina que mostra aos alunos os testes estatísticos mais comuns, como teste t, regressão linear simples e qui-quadrado. 
+
+* Introdução ao R, como o nome diz, é uma disciplina que apresenta a linguagem de programação `R` aos alunos.
+
 **Ementa:** Obtenção e preparação de dados para análise. Redução de dimensionalidade. Algoritmos de agrupamento e classificação de dados. Modelos preditivos.
 
 **Objetivos:** Apresentar o conceito de big data e mineração de dados aos alunos, para que eles possam ganhar experiência na resolução de problemas práticos e desenvolver habilidades de estudo e pesquisa independentes.
