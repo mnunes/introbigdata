@@ -77,7 +77,7 @@ subtitle = ""
 
 O material do curso, como slides, conjuntos de dados e exemplos de códigos, se encontram no [github](https://github.com/mnunes/introbigdata_material). Lá também está a lista de pacotes do `R` a serem instalados em sua máquina para que o curso possa ser acompanhado. [Clique aqui](https://github.com/mnunes/introbigdata_material) para ver um tutorial sobre como automatizar o download de todo o conteúdo da disciplina para o seu computador.
 
-A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
+A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://www.youtube.com/watch?v=_WPwzO5nt0c&list=PLr1K6DyuZsE7e36K7ljToOTpMH1bKyFtJ). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
 * Semana 00 - Introdução
   * O que é Big Data? [vídeo](https://youtu.be/_WPwzO5nt0c) [slides](https://github.com/mnunes/introbigdata_material/blob/main/aulas/00_Introducao/O_Que_E_Big_Data.pdf)
