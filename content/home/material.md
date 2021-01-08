@@ -84,7 +84,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
   * Exemplos de Aplicações com Big Data ([vídeo](https://youtu.be/4DG8Y_nxd5U) | [slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/00_Introducao/02_Exemplos.pdf))
 * Semana 01 - Obtenção de Dados
   * Obtenção de Dados ([vídeo](https://youtu.be/NXkixK-S80E)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/01_Obtencao_De_Dados.pdf))
-  * Preparação dos Dados ([vídeo]()|[slides]())
+  * Transformações nos Dados ([vídeo](https://youtu.be/0oGPYj06Ukk)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/02_Transformacoes_Nos_Dados.pdf))
 * Semana 02 - Análise de Componentes Principais
 * Semana 03 - K-Means
 * Semana 04 - Clusterização Hierárquica
