@@ -80,9 +80,11 @@ O material do curso, como slides, conjuntos de dados e exemplos de códigos, se 
 A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://www.youtube.com/watch?v=_WPwzO5nt0c&list=PLr1K6DyuZsE7e36K7ljToOTpMH1bKyFtJ). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
 * Semana 00 - Introdução
-  * O que é Big Data? ([vídeo](https://youtu.be/_WPwzO5nt0c) | [slides](https://github.com/mnunes/introbigdata_material/blob/main/aulas/00_Introducao/O_Que_E_Big_Data.pdf))
-  * Exemplos de Aplicações com Big Data ([vídeo](https://youtu.be/4DG8Y_nxd5U) | [slides](https://github.com/mnunes/introbigdata_material/blob/main/aulas/00_Introducao/Exemplos.pdf))
+  * O que é Big Data? ([vídeo](https://youtu.be/_WPwzO5nt0c) | [slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/00_Introducao/01_O_Que_E_Big_Data.pdf))
+  * Exemplos de Aplicações com Big Data ([vídeo](https://youtu.be/4DG8Y_nxd5U) | [slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/00_Introducao/02_Exemplos.pdf))
 * Semana 01 - Obtenção de Dados
+  * Obtenção de Dados ([vídeo](https://youtu.be/NXkixK-S80E)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/01_Obtencao_De_Dados.pdf))
+  * Preparação dos Dados ([vídeo]()|[slides]())
 * Semana 02 - Análise de Componentes Principais
 * Semana 03 - K-Means
 * Semana 04 - Clusterização Hierárquica
