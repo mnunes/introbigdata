@@ -127,7 +127,7 @@ Há duas restrições a respeito dos dados a serem analisados:
 
 1. Eles não podem ter sido analisados previamente em alguma aula da disciplina
 
-2. Não podem haver dois ou mais grupos com bancos de dados que sejam subconjuntos um do outro ou com bancos de dados que sejam parte um um conjunto maior
+2. Não podem haver dois ou mais grupos com bancos de dados que sejam subconjuntos um do outro ou com bancos de dados que sejam parte de um conjunto maior
 
 Para evitar que hajam problemas respeito do item 2, solicito aos grupos que enviem um email para marcus@marcusnunes.me descrevendo o banco de dados que utilizarão. Assim, os primeiros grupos a escolherem o conjunto de análise terão preferência na escolha.
 
