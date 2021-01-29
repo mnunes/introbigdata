@@ -86,7 +86,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
   * Obtenção de Dados ([vídeo](https://youtu.be/NXkixK-S80E)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/01_Obtencao_De_Dados.pdf))
   * Transformações nos Dados ([vídeo](https://youtu.be/0oGPYj06Ukk)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/02_Transformacoes_Nos_Dados.pdf))
 * Semana 02 - Análise de Componentes Principais ([vídeo](https://youtu.be/QZf0uoG97QA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/02_Analise_de_Componentes_Principais/02_Analise_De_Componentes_Principais.pdf))
-* Semana 03 - K-Means
+* Semana 03 - K-Means ([vídeo](https://youtu.be/eqQFAhUS_es)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/03_K-Means/03_k-means.pdf))
 * Semana 04 - Clusterização Hierárquica
 * Semana 05 - Projeto I
 * Semana 06 - Validação Cruzada
