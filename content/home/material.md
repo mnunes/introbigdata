@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-O material do curso, como slides, conjuntos de dados e exemplos de códigos, se encontram no [github](https://github.com/mnunes/introbigdata_material). Lá também está a lista de pacotes do `R` a serem instalados em sua máquina para que o curso possa ser acompanhado. [Clique aqui](https://github.com/mnunes/introbigdata_material) para ver um tutorial sobre como automatizar o download de todo o conteúdo da disciplina para o seu computador.
+O material do curso, como slides, conjuntos de dados e exemplos de códigos, está disponível no [github](https://github.com/mnunes/introbigdata_material). Lá também está a lista de pacotes do `R` a serem instalados em sua máquina para que o curso possa ser acompanhado. [Clique aqui](https://github.com/mnunes/introbigdata_material) para ver um tutorial sobre como automatizar o download de todo o conteúdo da disciplina para o seu computador.
 
 A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://www.youtube.com/playlist?list=PLr1K6DyuZsE7e36K7ljToOTpMH1bKyFtJ). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
 
