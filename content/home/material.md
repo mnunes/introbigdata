@@ -88,7 +88,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 02 - Análise de Componentes Principais ([vídeo](https://youtu.be/QZf0uoG97QA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/02_Analise_de_Componentes_Principais/02_Analise_De_Componentes_Principais.pdf))
 * Semana 03 - K-Means ([vídeo](https://youtu.be/eqQFAhUS_es)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/03_K-Means/03_k-means.pdf))
 * Semana 04 - Clusterização Hierárquica ([vídeo](https://youtu.be/D3XwLVsLDVE)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/04_Clusterizacao_Hierarquica/04_Clusterizacao_Hierarquica.pdf))
-* Semana 05 - Projeto I
+* Semana 05 - Projeto I ([instruções](https://github.com/mnunes/introbigdata_material/tree/main/aulas/05_Projeto_I))
 * Semana 06 - Validação Cruzada
 * Semana 07 - K Vizinhos Mais Próximos
 * Semana 08 - Máquinas de Vetor Suporte
