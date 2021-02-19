@@ -90,6 +90,8 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 04 - Clusterização Hierárquica ([vídeo](https://youtu.be/D3XwLVsLDVE)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/04_Clusterizacao_Hierarquica/04_Clusterizacao_Hierarquica.pdf))
 * Semana 05 - Projeto I ([instruções](https://github.com/mnunes/introbigdata_material/tree/main/aulas/05_Projeto_I))
 * Semana 06 - Validação Cruzada
+  * Validação Cruzada ([vídeo](https://youtu.be/JgqDtu3t9So)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06a_Validacao_Cruzada.pdf))
+  * `tidymodels` ([vídeo](https://youtu.be/nAFssJLymek)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06b_Tidymodels.pdf))
 * Semana 07 - K Vizinhos Mais Próximos
 * Semana 08 - Máquinas de Vetor Suporte
 * Semana 09 - Árvores de Classificação e Regressão
