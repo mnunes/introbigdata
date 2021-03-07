@@ -93,7 +93,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
   * Validação Cruzada ([vídeo](https://youtu.be/JgqDtu3t9So)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06a_Validacao_Cruzada.pdf))
   * `tidymodels` ([vídeo](https://youtu.be/nAFssJLymek)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06b_Tidymodels.pdf))
 * Semana 07 - K Vizinhos Mais Próximos ([vídeo](https://youtu.be/4AyVUPjjQqA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/07_K_Vizinhos_Mais_Proximos/07_k_Vizinhos_Mais_Proximos.pdf))
-* Semana 08 - Máquinas de Vetor Suporte
+* Semana 08 - Máquinas de Vetor Suporte ([vídeo](https://youtu.be/aQlXsaN7MmU)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/08_Maquinas_de_Vetor_Suporte/08_Maquinas_de_Vetor_Suporte.pdf))
 * Semana 09 - Árvores de Classificação e Regressão
 * Semana 10 - Random Forest
 * Semana 11 - Projeto II
