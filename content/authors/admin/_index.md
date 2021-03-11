@@ -58,6 +58,6 @@ Bem-vindo ao site da disciplina EST0133 - Introdução à Modelagem de Big Data,
 
 **Ementa:** Obtenção e preparação de dados para análise. Redução de dimensionalidade. Algoritmos de agrupamento e classificação de dados. Modelos preditivos.
 
-**Objetivos:** Apresentar o conceito de big data e mineração de dados aos alunos, para que eles possam ganhar experiência na resolução de problemas práticos e desenvolver habilidades de estudo e pesquisa independentes.
+**Objetivos:** Apresentar o conceito de big data e mineração de dados aos alunos, para que eles possam ganhar experiência na resolução de problemas de modelagem, além de desenvolver habilidades de estudo e pesquisa independentes. É uma disciplina prática, com utilização intensa de algoritmos computacionais.
 
 **Instrutor:** [Marcus Nunes](https://marcusnunes.me/)
