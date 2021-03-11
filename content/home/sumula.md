@@ -77,6 +77,8 @@ subtitle = ""
 
 Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Em resumo, veremos assuntos relacionados a aprendizagem de máquina. Devido a limitações de hardware, não trabalharemos com big data em si, mas os assuntos vistos aqui podem ser escalados para conjuntos de dados de qualquer tamanho.
 
+Além disso, essa é uma disciplina predominantemente prática. Nosso objetivo com ela é desenvolver habilidades na resolução de problemas de modelagem. Por isso, queremos entender os métodos utilizados aqui de maneira superficial, mas suficiente para que tenhamos uma ideia intuitiva de como eles funcionam matematicamente.
+
 As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras, exceto a data de 19 de abril, que é uma segunda-feira. Perceba também que essas são as datas dos nossos encontros síncronos.
 
 |Semana | Data  | Assunto
