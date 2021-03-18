@@ -95,7 +95,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 07 - K Vizinhos Mais Próximos ([vídeo](https://youtu.be/4AyVUPjjQqA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/07_K_Vizinhos_Mais_Proximos/07_k_Vizinhos_Mais_Proximos.pdf))
 * Semana 08 - Máquinas de Vetor Suporte ([vídeo](https://youtu.be/aQlXsaN7MmU)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/08_Maquinas_de_Vetor_Suporte/08_Maquinas_de_Vetor_Suporte.pdf))
 * Semana 09 - Árvores de Classificação e Regressão ([vídeo](https://youtu.be/Vf5GvJ562Ns)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/09_Arvores_de_Classificacao_e_Regressao/09_CART.pdf))
-* Semana 10 - Random Forest
+* Semana 10 - Random Forest ([vídeo](https://youtu.be/eXfHh_CovHY)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/10_Random_Forest/10_Random_Forest.pdf))
 * Semana 11 - Projeto II
 * Semana 12 - Projeto Final (Dúvidas)
 * Semana 13 - Projeto Final (Dúvidas)
