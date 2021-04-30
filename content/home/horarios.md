@@ -31,7 +31,7 @@ subtitle = ""
   icon = "fas fa-question"
   icon_pack = "fas"
   name = "Dúvidas?"
-  description = "Mande um [email](mailto:marcus@marcusnunes.me)"
+  description = "Mande um [email](mailto:marcus.nunes@ufrn.br)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
