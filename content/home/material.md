@@ -88,7 +88,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 02 - Análise de Componentes Principais ([vídeo](https://youtu.be/QZf0uoG97QA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/02_Analise_de_Componentes_Principais/02_Analise_De_Componentes_Principais.pdf))
 * Semana 03 - K-Means ([vídeo](https://youtu.be/eqQFAhUS_es)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/03_K-Means/03_k-means.pdf))
 * Semana 04 - Clusterização Hierárquica ([vídeo](https://youtu.be/D3XwLVsLDVE)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/04_Clusterizacao_Hierarquica/04_Clusterizacao_Hierarquica.pdf))
-* Semana 05 - Projeto I ([instruções](https://github.com/mnunes/introbigdata_material/tree/main/aulas/05_Projeto_I))
+* Semana 05 - Projeto I (instruções)
 * Semana 06 - Validação Cruzada
   * Validação Cruzada ([vídeo](https://youtu.be/JgqDtu3t9So)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06a_Validacao_Cruzada.pdf))
   * `tidymodels` ([vídeo](https://youtu.be/nAFssJLymek)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06b_Tidymodels.pdf))
@@ -96,8 +96,8 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 08 - Máquinas de Vetor Suporte ([vídeo](https://youtu.be/aQlXsaN7MmU)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/08_Maquinas_de_Vetor_Suporte/08_Maquinas_de_Vetor_Suporte.pdf))
 * Semana 09 - Árvores de Classificação e Regressão ([vídeo](https://youtu.be/Vf5GvJ562Ns)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/09_Arvores_de_Classificacao_e_Regressao/09_CART.pdf))
 * Semana 10 - Random Forest ([vídeo](https://youtu.be/eXfHh_CovHY)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/10_Random_Forest/10_Random_Forest.pdf))
-* Semana 11 - Projeto II ([instruções](https://github.com/mnunes/introbigdata_material/tree/main/aulas/11_Projeto_II))
-* Semana 12 - Projeto Final ([instruções](https://github.com/mnunes/introbigdata_material/raw/main/aulas/12_Projeto_III/Projeto_III.pdf)|Dúvidas)
-* Semana 13 - Projeto Final (Dúvidas)
-* Semana 14 - Projeto Final (Apresentação)
+* Semana 11 - Projeto II (instruções)
+* Semana 12 - Projeto Final (instruções|dúvidas)
+* Semana 13 - Projeto Final (dúvidas)
+* Semana 14 - Projeto Final (apresentação)
 * Semana 15 - Quarta prova
