@@ -81,7 +81,7 @@ O projeto final é a última avaliação da turma de Introdução à Modelagem d
 
 * Este projeto será avaliado de duas maneiras: em sala, numa apresentação de slides, e por escrito, através de um relatório
 
-* A apresentação de slides deverá durar de 12 a 15 minutos
+* A apresentação de slides deverá durar de 10 a 15 minutos
 
 * Não há limite mínimo ou máximo para o número de páginas do relatório escrito
 
@@ -89,7 +89,7 @@ O projeto final é a última avaliação da turma de Introdução à Modelagem d
 
 * Os arquivos com a apresentação de slides, relatório e banco de dados devem ser enviados para o professor logo após a apresentação oral
 
-* A data da entrega e apresentação do projeto é 19/04/2021, durante o horário da aula
+* A data da entrega e apresentação do projeto é 09/02/2022, durante o horário da aula
 
 O projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
 
