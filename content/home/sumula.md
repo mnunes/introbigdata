@@ -83,22 +83,22 @@ As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da
 
 |Semana | Data  | Assunto
 |------:|-------|--------
-|00     | 13/01 | Introdução 
-|01     | 20/01 | Obtenção de Dados
-|02     | 27/01 | Análise de Componentes Principais
-|03     | 03/02 | K-Means
-|04     | 10/02 | Clusterização Hierárquica
-|05     | 17/02 | Projeto I
-|06     | 24/02 | Validação Cruzada
-|07     | 03/03 | K Vizinhos Mais Próximos
-|08     | 10/03 | Máquinas de Vetor Suporte
-|09     | 17/03 | Árvores de Classificação e Regressão
-|10     | 24/03 | Random Forest
-|11     | 31/03 | Projeto II
-|12     | 07/04 | Projeto Final - Dúvidas
-|13     | 14/04 | Projeto Final - Dúvidas
-|14     | 19/04 | Projeto Final - Apresentação
-|15     | 26/04 | Quarta prova
+|00     | 18/10 | Introdução 
+|01     | 20/10 | Obtenção de Dados
+|02     | 27/10 | Análise de Componentes Principais
+|03     | 03/11 | K-Means
+|04     | 10/11 | Clusterização Hierárquica
+|05     | 22/11 | Projeto I
+|06     | 24/11 | Validação Cruzada
+|07     | 01/12 | K Vizinhos Mais Próximos
+|08     | 08/12 | Máquinas de Vetor Suporte
+|09     | 15/12 | Árvores de Classificação e Regressão
+|10     | 12/01 | Random Forest
+|11     | 24/01 | Projeto II
+|12     | 26/01 | Projeto Final - Dúvidas
+|13     | 02/02 | Projeto Final - Dúvidas
+|14     | 09/02 | Projeto Final - Apresentação
+|15     | 16/04 | Quarta prova
 
 
 A organização dos conteúdos está ligeiramente diferente daquela registrada no SIGAA, mas a disciplina está passando por uma reformulação nesse semestre e as mudanças atuais, caso bem sucedidas, serão implementadas à versão oficial.
