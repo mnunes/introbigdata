@@ -97,7 +97,7 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 09 - Árvores de Classificação e Regressão ([vídeo](https://youtu.be/Vf5GvJ562Ns)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/09_Arvores_de_Classificacao_e_Regressao/09_CART.pdf))
 * Semana 10 - Random Forest ([vídeo](https://youtu.be/eXfHh_CovHY)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/10_Random_Forest/10_Random_Forest.pdf))
 * Semana 11 - Projeto II (instruções)
-* Semana 12 - Projeto Final (instruções|dúvidas)
+* Semana 12 - Projeto Final ([instruções](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/12_Projeto_III/Projeto_III.pdf)|dúvidas)
 * Semana 13 - Projeto Final (dúvidas)
 * Semana 14 - Projeto Final (apresentação)
 * Semana 15 - Quarta prova

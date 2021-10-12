@@ -154,12 +154,12 @@ Portanto, os alunos não precisam se limitar aos conteúdos vistos em aula.
 
 ### Datas Importantes
 
-* 24/02/2021: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
+* 15/12/2021: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
   * nomes dos membros dos grupos
   * descrição do conjunto de dados a ser analisado
   * as perguntas a serem respondidas no projeto
 
-* As apresentações ocorrerão em 19/04/2021
+* As apresentações ocorrerão em 09/02/2022
 
 
 
