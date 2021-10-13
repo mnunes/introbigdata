@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2020.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula a partir de 19/04/2021.
+O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2021.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula a partir de 09/02/2022.
 
 ### Instruções
 
