@@ -79,7 +79,7 @@ Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Em resumo
 
 Além disso, essa é uma disciplina predominantemente prática. Nosso objetivo com ela é desenvolver habilidades na resolução de problemas de modelagem. Por isso, queremos entender os métodos utilizados aqui de maneira superficial, mas suficiente para que tenhamos uma ideia intuitiva de como eles funcionam matematicamente.
 
-As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras, exceto a data de 19 de abril, que é uma segunda-feira. Perceba também que essas são as datas dos nossos encontros síncronos.
+As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras. Perceba também que essas são as datas dos nossos encontros síncronos.
 
 |Semana | Data  | Assunto
 |------:|-------|--------
@@ -98,7 +98,7 @@ As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da
 |12     | 26/01 | Projeto Final - Dúvidas
 |13     | 02/02 | Projeto Final - Dúvidas
 |14     | 09/02 | Projeto Final - Apresentação
-|15     | 16/04 | Quarta prova
+|15     | 16/02 | Quarta prova
 
 
 A organização dos conteúdos está ligeiramente diferente daquela registrada no SIGAA, mas a disciplina está passando por uma reformulação nesse semestre e as mudanças atuais, caso bem sucedidas, serão implementadas à versão oficial.
