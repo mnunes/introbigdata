@@ -80,7 +80,7 @@ O material do curso foi produzido a partir de referências espalhadas por biblio
 ## Livros
 
 * Hastie, T. e Tibshirani, R. (2009). _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_. Springer. [link](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-* Izbicki, R. e Santos, Thiago Mendonça dos. (2020) _Aprendizado de máquina: uma abordagem estatística_. São Carlos. [link](http://www.rizbicki.ufscar.br/AME.pdf)
+* Izbicki, R. e dos Santos, T. M. (2020) _Aprendizado de máquina: uma abordagem estatística_. São Carlos. [link](http://www.rizbicki.ufscar.br/AME.pdf)
 * James, G., Witten, D., Hastie, T., e Tibshirani, R. (2014). _An Introduction to Statistical Learning with Applications in R_. Springer.
 * Kuhn, M. e Johnson, K. (2013). _Applied Predictive Modeling_. Springer.
 * Kuhn, M. e Johnson, K. (2019). _Feature Engineering and Selection: A Practical Approach for Predictive Models_. Chapman and Hall/CRC. [link](https://bookdown.org/max/FES/)
