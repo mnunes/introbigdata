@@ -85,6 +85,7 @@ O material do curso foi produzido a partir de referências espalhadas por biblio
 * Kuhn, M. e Johnson, K. (2013). _Applied Predictive Modeling_. Springer.
 * Kuhn, M. e Johnson, K. (2019). _Feature Engineering and Selection: A Practical Approach for Predictive Models_. Chapman and Hall/CRC. [link](https://bookdown.org/max/FES/)
 * Lantz, B. (2013). _Machine Learning with R_. Packt Publishing.
+* Olawale Awe, O., Love, K. e Vance, E. A. (2022). _Promoting Statistical Practice and Collaboration in Developing Countries_. Chapman and Hall/CRC. [link](https://www.taylorfrancis.com/books/oa-edit/10.1201/9781003261148/promoting-statistical-practice-collaboration-developing-countries-olawale-awe-kim-love-eric-vance)
 * Tan, P.-K., Steinbach, M., e Kumar, V. (2012). _Introdução ao Data Mining: Mineração de Dados_. Ciência Moderna.
 * Zhao, Y. (2012). _R and Data Mining: Examples and Case Studies_. Academic Press.
 
