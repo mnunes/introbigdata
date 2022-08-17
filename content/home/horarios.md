@@ -19,13 +19,14 @@ subtitle = ""
   icon = "fab fa-youtube"
   icon_pack = "fab"
   name = "Vídeos"
-  description = "Segundas até 7:00"
+  description = "Disponíveis no YouTube"
   
 [[feature]]
   icon = "ai ai-conversation"
   icon_pack = "ai"
-  name = "Aulas Síncronas"
-  description = "Quartas das 7:00 às 8:40"  
+  name = "Aulas Presenciais"
+  description = "*Turma 1:* Segundas e Quartas das 10:50 às 12:30
+  *Turma 2:* Terças e Quintas das 16:50 às 18:30"
   
 [[feature]]
   icon = "fas fa-question"
