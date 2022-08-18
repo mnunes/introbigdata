@@ -21,3 +21,4 @@ exampleSite/content/.DS_Store
 exampleSite/content/authors/.DS_Store
 exampleSite/content/courses/.DS_Store
 exampleSite/content/home/.DS_Store
+.hugo_build.lock
