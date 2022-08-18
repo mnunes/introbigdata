@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2021.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula a partir de 09/02/2022.
+O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2022.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula a partir de 05/12/2022.
 
 ### Instruções
 
@@ -89,7 +89,7 @@ O projeto final é a última avaliação da turma de Introdução à Modelagem d
 
 * Os arquivos com a apresentação de slides, relatório e banco de dados devem ser enviados para o professor logo após a apresentação oral
 
-* A data da entrega e apresentação do projeto é 09/02/2022, durante o horário da aula
+* A data da entrega e apresentação do projeto é 05/12/2022, durante o horário da aula
 
 O projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
 
@@ -129,7 +129,7 @@ Há duas restrições a respeito dos dados a serem analisados:
 
 2. Não podem haver dois ou mais grupos com bancos de dados que sejam subconjuntos um do outro ou com bancos de dados que sejam parte de um conjunto maior
 
-Para evitar que hajam problemas respeito do item 2, solicito aos grupos que enviem um email para marcus@marcusnunes.me descrevendo o banco de dados que utilizarão. Assim, os primeiros grupos a escolherem o conjunto de análise terão preferência na escolha.
+Para evitar que hajam problemas respeito do item 2, solicito aos grupos que enviem um email para marcus.nunes@ufrn.br descrevendo o banco de dados que utilizarão. Assim, os primeiros grupos a escolherem o conjunto de análise terão preferência na escolha.
 
 
 
@@ -154,12 +154,12 @@ Portanto, os alunos não precisam se limitar aos conteúdos vistos em aula.
 
 ### Datas Importantes
 
-* 15/12/2021: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
+* 07/11/2022: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
   * nomes dos membros dos grupos
   * descrição do conjunto de dados a ser analisado
   * as perguntas a serem respondidas no projeto
 
-* As apresentações ocorrerão em 09/02/2022
+* As apresentações ocorrerão em 05/12/2022
 
 
 

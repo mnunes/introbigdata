@@ -77,27 +77,28 @@ subtitle = ""
 
 O material do curso, como slides, conjuntos de dados e exemplos de códigos, está disponível no [github](https://github.com/mnunes/introbigdata_material). Lá também está a lista de pacotes do `R` a serem instalados em sua máquina para que o curso possa ser acompanhado. [Clique aqui](https://github.com/mnunes/introbigdata_material) para ver um tutorial sobre como automatizar o download de todo o conteúdo da disciplina para o seu computador.
 
-A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://www.youtube.com/playlist?list=PLr1K6DyuZsE7e36K7ljToOTpMH1bKyFtJ). É esperado que os alunos tenham assistido aos vídeos antes dos encontros síncronos.
+A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTube](https://www.youtube.com/playlist?list=PLr1K6DyuZsE7e36K7ljToOTpMH1bKyFtJ). Não é esperado que os alunos tenham assistido aos vídeos antes das aulas presenciais, mas essa é uma tarefa encorajada.
 
-* Semana 00 - Introdução
+* Semana 01 - Introdução
   * O que é Big Data? ([vídeo](https://youtu.be/_WPwzO5nt0c)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/00_Introducao/00a_O_Que_E_Big_Data.pdf))
   * Exemplos de Aplicações com Big Data ([vídeo](https://youtu.be/4DG8Y_nxd5U)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/00_Introducao/00b_Exemplos.pdf))
-* Semana 01 - Obtenção de Dados
+* Semana 02 - Obtenção de Dados
   * Obtenção de Dados ([vídeo](https://youtu.be/NXkixK-S80E)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/01a_Obtencao_De_Dados.pdf))
   * Transformações nos Dados ([vídeo](https://youtu.be/0oGPYj06Ukk)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/01_Obtencao_de_Dados/01b_Transformacoes_Nos_Dados.pdf))
-* Semana 02 - Análise de Componentes Principais ([vídeo](https://youtu.be/QZf0uoG97QA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/02_Analise_de_Componentes_Principais/02_Analise_De_Componentes_Principais.pdf))
-* Semana 03 - K-Means ([vídeo](https://youtu.be/eqQFAhUS_es)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/03_K-Means/03_k-means.pdf))
-* Semana 04 - Clusterização Hierárquica ([vídeo](https://youtu.be/D3XwLVsLDVE)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/04_Clusterizacao_Hierarquica/04_Clusterizacao_Hierarquica.pdf))
-* Semana 05 - Projeto I (instruções)
-* Semana 06 - Validação Cruzada
+* Semana 03 - Análise de Componentes Principais ([vídeo](https://youtu.be/QZf0uoG97QA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/02_Analise_de_Componentes_Principais/02_Analise_De_Componentes_Principais.pdf))
+* Semana 04 - K-Means ([vídeo](https://youtu.be/eqQFAhUS_es)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/03_K-Means/03_k-means.pdf))
+* Semana 05 - Clusterização Hierárquica ([vídeo](https://youtu.be/D3XwLVsLDVE)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/04_Clusterizacao_Hierarquica/04_Clusterizacao_Hierarquica.pdf))
+* Semana 06 - Avaliação I
+* Semana 07 - Validação Cruzada
   * Validação Cruzada ([vídeo](https://youtu.be/JgqDtu3t9So)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06a_Validacao_Cruzada.pdf))
   * `tidymodels` ([vídeo](https://youtu.be/nAFssJLymek)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/06_Validacao_Cruzada/06b_Tidymodels.pdf))
-* Semana 07 - K Vizinhos Mais Próximos ([vídeo](https://youtu.be/4AyVUPjjQqA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/07_K_Vizinhos_Mais_Proximos/07_k_Vizinhos_Mais_Proximos.pdf))
-* Semana 08 - Máquinas de Vetor Suporte ([vídeo](https://youtu.be/aQlXsaN7MmU)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/08_Maquinas_de_Vetor_Suporte/08_Maquinas_de_Vetor_Suporte.pdf))
-* Semana 09 - Árvores de Classificação e Regressão ([vídeo](https://youtu.be/Vf5GvJ562Ns)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/09_Arvores_de_Classificacao_e_Regressao/09_CART.pdf))
-* Semana 10 - Random Forest ([vídeo](https://youtu.be/eXfHh_CovHY)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/10_Random_Forest/10_Random_Forest.pdf))
-* Semana 11 - Projeto II (instruções)
-* Semana 12 - Projeto Final ([instruções](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/12_Projeto_III/Projeto_III.pdf)|dúvidas)
-* Semana 13 - Projeto Final (dúvidas)
-* Semana 14 - Projeto Final (apresentação)
-* Semana 15 - Quarta prova
+* Semana 08 - K Vizinhos Mais Próximos ([vídeo](https://youtu.be/4AyVUPjjQqA)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/07_K_Vizinhos_Mais_Proximos/07_k_Vizinhos_Mais_Proximos.pdf))
+* Semana 09 - Máquinas de Vetor Suporte ([vídeo](https://youtu.be/aQlXsaN7MmU)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/08_Maquinas_de_Vetor_Suporte/08_Maquinas_de_Vetor_Suporte.pdf))
+* Semana 10 - Árvores de Classificação e Regressão ([vídeo](https://youtu.be/Vf5GvJ562Ns)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/09_Arvores_de_Classificacao_e_Regressao/09_CART.pdf))
+* Semana 11 - Random Forest ([vídeo](https://youtu.be/eXfHh_CovHY)|[slides](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/10_Random_Forest/10_Random_Forest.pdf))
+* Semana 12 - Avaliação II
+* Semana 13 - Projeto Final ([instruções](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/12_Projeto_III/Projeto_III.pdf)|dúvidas)
+* Semana 14 - Projeto Final (dúvidas)
+* Semana 15 - Projeto Final (dúvidas)
+* Semana 16 - Projeto Final (apresentação)
+* Semana 17 - Quarta prova

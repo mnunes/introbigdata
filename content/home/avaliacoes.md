@@ -77,6 +77,4 @@ subtitle = ""
 
 As duas primeiras avaliações da disciplina serão individuais. Elas ocorrerão ao final das Unidades I e II. A primeira delas se baseará em tarefas de clusterização, enquanto a segunda conterá tarefas de classificação e regressão. A terceira avaliação é o projeto final de análise de dados, descrito em detalhes na próxima seção.
 
-Nessas avaliações os alunos deverão responder questões pré-definidas, utilizando [R Markdown](https://rmarkdown.rstudio.com/) para a entrega das tarefas. Eu tenho materiais preparados sobre como iniciar a trabalhar com essa tecnologia ([link em inglês](https://github.com/mnunes/2nd-csds), [link em português](https://github.com/mnunes/Curso-RMarkdown)).
-
 Os alunos são incentivados a trabalharem em conjunto na resolução dos problemas das avaliações, mas plágios não serão tolerados.

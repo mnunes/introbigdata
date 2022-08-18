@@ -6,7 +6,7 @@ title: Introdução à Modelagem de Big Data
 superuser: true
 
 # Role/position
-role: 2021.2
+role: 2022.2
 
 # Organizations/Affiliations
 organizations:
