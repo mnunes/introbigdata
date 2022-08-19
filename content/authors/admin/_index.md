@@ -48,7 +48,7 @@ highlight_name: false
 #- Visitors
 ---
 
-Bem-vindo ao site da disciplina EST0133 - Introdução à Modelagem de Big Data, ministrada aos alunos do [Bacharelado em Estatística da UFRN](https://sigaa.ufrn.br/sigaa/public/departamento/portal.jsf?id=47). O material contido aqui está sendo utilizado durante o semestre 2021.2. Atualmente não é possível aceitar alunos de fora da universidade nesse curso, mas o material está aberto a quem quiser utilizá-lo.
+Bem-vindo ao site da disciplina EST0133 - Introdução à Modelagem de Big Data, ministrada aos alunos do [Bacharelado em Estatística da UFRN](https://sigaa.ufrn.br/sigaa/public/departamento/portal.jsf?id=47). O material contido aqui está sendo utilizado durante o semestre 2022.2. Atualmente não é possível aceitar alunos de fora da universidade nesse curso, mas o material está aberto a quem quiser utilizá-lo.
 
 **Pré-requisitos:** Métodos Estatísticos (EST0114) e Introdução ao R (EST0091)
 

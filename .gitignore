@@ -24,3 +24,5 @@ exampleSite/content/home/.DS_Store
 .hugo_build.lock
 .RData
 .Rhistory
+.Rhistory
+.RData
