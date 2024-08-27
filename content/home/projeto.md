@@ -75,49 +75,38 @@ subtitle = ""
  css_class = ""
 +++
 
-O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2022.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula a partir de 05/12/2022.
+O projeto final é a última avaliação da turma de Introdução à Modelagem de Big Data do semestre 2024.2. É um projeto de análise de dados, com assunto e escopo definido pelo próprio aluno, que deverá vir acompanhado de um relatório escrito em R Markdown e que deverá ser apresentado em sala de aula no dia 19/12/2024.
 
 ### Instruções
 
-* Este projeto será avaliado de duas maneiras: em sala, numa apresentação de slides, e por escrito, através de um relatório
+Este projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
 
-* A apresentação de slides deverá durar de 10 a 15 minutos
+* Esportes
 
-* Não há limite mínimo ou máximo para o número de páginas do relatório escrito
-
-* Uma das seções do relatório deverá conter o código utilizado pelos alunos para resolver seu problema
-
-* Os arquivos com a apresentação de slides, relatório e banco de dados devem ser enviados para o professor logo após a apresentação oral
-
-* A data da entrega e apresentação do projeto é 05/12/2022, durante o horário da aula
-
-O projeto visa avaliar aquilo que os alunos aprenderam durante o curso. Serão formados grupos de até três alunos, que irão realizar a análise de um conjunto de dados à sua escolha. Esta escolha é de inteira responsabilidade dos alunos. Algumas sugestões de áreas para o projeto são
-
-* Dados biológicos
-
-* Webscraping
-
-* Mineração de textos 
-
-* Genética
-
-* Dados de localização
-
-* Marketing
+* Cinema
 
 * Finanças
 
 * Dados de saúde
 
+* Informações governamentais
+
+
 Cada grupo deverá obter um banco de dados em algum destes assuntos ou outros, de modo a responder perguntas a seu respeito. É possível usar dados de suas próprias pesquisas, caso o aluno queira propor uma nova maneira de abordar seu trabalho. As perguntas a serem respondidas serão formuladas pelos próprios alunos. A única obrigatoriedade é a aplicação de ferramentas de análise de dados vistas no curso. Os grupos que quiserem propor a utilização de uma nova ferramenta que tenha similaridade com aquelas que vimos em aula sintam-se encorajados a fazê-lo. Algumas boas fontes para procura de dados:
 
-* [Brasil.IO](https://brasil.io/)
+* Portal de Dados Abertos - \url{https://dados.gov.br/}
 
-* [Kaggle](https://www.kaggle.com/datasets)
+* Portal de Dados Abertos da UFRN - \url{https://dados.ufrn.br/}
+
+* Kaggle - \url{https://www.kaggle.com/datasets}
+
+* Data is Plural - \url{https://www.data-is-plural.com/}
   
-* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* UCI Machine Learning Repository - \url{http://archive.ics.uci.edu/ml/}
 
-* Sites de governos ([dados.gov.br](https://dados.gov.br/), [data.gov](https://catalog.data.gov/dataset))
+* Repositório com os desafios da Tidy Tuesday \url{https://github.com/rfordatascience/tidytuesday}
+
+* Slides da aula _Obtenção de Dados_
 
 
 
@@ -154,12 +143,12 @@ Portanto, os alunos não precisam se limitar aos conteúdos vistos em aula.
 
 ### Datas Importantes
 
-* 07/11/2022: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
+* 28/11/2024: entrega do pré-projeto final. No pré-projeto vão constar as seguintes informações
   * nomes dos membros dos grupos
   * descrição do conjunto de dados a ser analisado
   * as perguntas a serem respondidas no projeto
 
-* As apresentações ocorrerão em 05/12/2022
+* As apresentações ocorrerão em 19/12/2024
 
 
 

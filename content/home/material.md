@@ -99,6 +99,5 @@ A lista completa com as aulas assíncronas se encontra em uma [playlist no YouTu
 * Semana 12 - Avaliação II
 * Semana 13 - Projeto Final ([instruções](https://raw.githubusercontent.com/mnunes/introbigdata_material/main/aulas/12_Projeto_III/Projeto_III.pdf)|dúvidas)
 * Semana 14 - Projeto Final (dúvidas)
-* Semana 15 - Projeto Final (dúvidas)
-* Semana 16 - Projeto Final (apresentação)
+* Semana 15 - Projeto Final (apresentação)
 * Semana 17 - Quarta prova

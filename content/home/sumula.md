@@ -79,27 +79,47 @@ Os assuntos a serem tratados nessa disciplina estão descritos abaixo. Em resumo
 
 Além disso, essa é uma disciplina predominantemente prática. Nosso objetivo com ela é desenvolver habilidades na resolução de problemas de modelagem. Por isso, queremos entender os métodos utilizados aqui de maneira superficial, mas suficiente para que tenhamos uma ideia intuitiva de como eles funcionam matematicamente.
 
-As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são quartas-feiras. Perceba também que essas são as datas dos nossos encontros síncronos.
+As datas informadas abaixo são uma _tentativa_ de organização do conteúdo da disciplina. Podem haver algumas pequenas alterações, a depender do desenrolar do semestre. Note que todas as datas informadas são terças-feiras. Perceba também que essas são as datas dos nossos encontros síncronos.
 
+| Data  | Assunto
+|-------|--------
+| 17/09 | Introdução 
+| 24/09 | Obtenção de Dados
+| 10/10 | Análise de Componentes Principais
+| 17/10 | K-Means
+| 24/10 | Clusterização Hierárquica
+| 31/10 | Avaliação I
+| 29/10 | Validação Cruzada
+| 05/11 | K Vizinhos Mais Próximos
+| 12/11 | Máquinas de Vetor Suporte
+| 19/11 | Árvores de Classificação e Regressão
+| 26/11 | Random Forest
+| 05/12 | Avaliação II
+| 12/12 | Projeto Final - Dúvidas
+| 19/12 | Projeto Final - Apresentação
+| 09/01 | Quarta prova
+
+
+<!--
 |Semana | Data  | Assunto
 |------:|-------|--------
-|01     | 22/08 | Introdução 
-|02     | 29/08 | Obtenção de Dados
-|03     | 05/09 | Análise de Componentes Principais
-|04     | 12/09 | K-Means
-|05     | 19/09 | Clusterização Hierárquica
-|06     | 26/09 | Avaliação I
-|07     | 05/10 | Validação Cruzada
-|08     | 10/10 | K Vizinhos Mais Próximos
-|09     | 14/10 | Máquinas de Vetor Suporte
-|10     | 24/10 | Árvores de Classificação e Regressão
-|11     | 31/10 | Random Forest
-|12     | 09/11 | Avaliação II
-|13     | 14/11 | Projeto Final - Dúvidas
-|14     | 23/11 | Projeto Final - Dúvidas
-|15     | 28/11 | Projeto Final - Dúvidas
-|16     | 05/12 | Projeto Final - Apresentação
-|17     | 12/12 | Quarta prova
-
+|01     | 17/09 | Introdução 
+|02     | 24/09 | Obtenção de Dados
+|03     | 10/10 | Análise de Componentes Principais
+|04     | 17/10 | K-Means
+|05     | 24/10 | Clusterização Hierárquica
+|06     | 31/10 | Avaliação I
+|06     | 31/10 | Validação Cruzada
+|07     | 10/10 | K Vizinhos Mais Próximos
+|08     | 14/10 | Máquinas de Vetor Suporte
+|09     | 24/10 | Árvores de Classificação e Regressão
+|10     | 31/10 | Random Forest
+|11     | 09/11 | Avaliação II
+|12     | 14/11 | Projeto Final - Dúvidas
+|13     | 23/11 | Projeto Final - Dúvidas
+|14     | 28/11 | Projeto Final - Dúvidas
+|15     | 05/12 | Projeto Final - Apresentação
+|16     | 12/12 | Quarta prova
+-->
 
 A organização dos conteúdos está ligeiramente diferente daquela registrada no SIGAA, mas a disciplina está passando por uma reformulação nesse semestre e as mudanças atuais, caso bem sucedidas, serão implementadas à versão oficial.

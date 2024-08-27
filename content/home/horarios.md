@@ -25,7 +25,7 @@ subtitle = ""
   icon = "ai ai-conversation"
   icon_pack = "ai"
   name = "Aulas Presenciais"
-  description = "**Turma 1:** 24M56 | **Turma 2:** 35T56"
+  description = "35M34"
   
 [[feature]]
   icon = "fas fa-question"
